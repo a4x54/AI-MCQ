@@ -2426,12 +2426,6 @@ body.dark-mode .legend-box {
     border-color: #64748b;
 }
 
-body.dark-mode .nav-number {
-    border-color: #475569;
-    background: #1e293b;
-    color: var(--text-dark);
-}
-
 body.dark-mode .hint-box {
     background: rgba(245, 158, 11, 0.15);
     color: var(--text-dark);
@@ -2731,12 +2725,6 @@ body.dark-mode .progress-bar {
 
 body.dark-mode .legend-box {
     border-color: #64748b;
-}
-
-body.dark-mode .nav-number {
-    border-color: #475569;
-    background: #1e293b;
-    color: var(--text-dark);
 }
 
 body.dark-mode .hint-box {
