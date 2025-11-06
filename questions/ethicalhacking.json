@@ -1,0 +1,1486 @@
+[
+            {
+                "lecture": "1",
+                "question": "What is the correct definition of ethical hacking?",
+                "category": "Ethical Hacking Basics",
+                "difficulty": "easy",
+                "hint": "Think about legal and authorized practice",
+                "options": [
+                    "Hacking systems without permission for educational purposes",
+                    "The legal and authorized practice of bypassing system security to identify vulnerabilities",
+                    "Stealing data from large corporations",
+                    "Hacking systems to prove personal skills"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is the primary goal of ethical hacking?",
+                "category": "Ethical Hacking Basics",
+                "difficulty": "easy",
+                "hint": "Related to identifying weaknesses before malicious attackers",
+                "options": [
+                    "To test network speed",
+                    "To identify security vulnerabilities before malicious hackers can exploit them",
+                    "To improve system performance",
+                    "To develop new software"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "Which characteristic must be present in ethical hacking?",
+                "category": "Ethical Hacking Basics",
+                "difficulty": "medium",
+                "hint": "Think about permission and documentation",
+                "options": [
+                    "Speed of execution",
+                    "Using only free tools",
+                    "Permission-based and documented",
+                    "Always working individually"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "Who are White Hat Hackers?",
+                "category": "Types of Hackers",
+                "difficulty": "easy",
+                "hint": "Ethical security professionals",
+                "options": [
+                    "Malicious hackers who steal data",
+                    "Ethical security professionals who hack with explicit permission to improve security systems",
+                    "Hackers working in gray areas",
+                    "Hackers who sell exploits to the highest bidder"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What characterizes Black Hat Hackers?",
+                "category": "Types of Hackers",
+                "difficulty": "easy",
+                "hint": "Malicious actors",
+                "options": [
+                    "Work with companies to improve security",
+                    "Disclose vulnerabilities responsibly",
+                    "Work in security training",
+                    "Malicious actors who exploit vulnerabilities for personal gain or data theft"
+                ],
+                "correct": 3
+            },
+            {
+                "lecture": "1",
+                "question": "How do Grey Hat Hackers differ from others?",
+                "category": "Types of Hackers",
+                "difficulty": "medium",
+                "hint": "They work in ethical gray areas",
+                "options": [
+                    "They always work with official permission",
+                    "They work in ethical gray areas and sometimes disclose vulnerabilities responsibly without permission",
+                    "They only hack for harm",
+                    "They don't have sufficient technical skills"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is the first phase of the five ethical hacking phases?",
+                "category": "Hacking Phases",
+                "difficulty": "easy",
+                "hint": "Gathering information about the target",
+                "options": [
+                    "Scanning",
+                    "Reconnaissance",
+                    "Gaining Access",
+                    "Maintaining Access"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What happens in the Reconnaissance phase?",
+                "category": "Hacking Phases",
+                "difficulty": "medium",
+                "hint": "Initial information gathering phase",
+                "options": [
+                    "Scanning open ports",
+                    "Gathering as much information as possible about the target system",
+                    "Installing backdoors",
+                    "Deleting system logs"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is the goal of the Scanning phase?",
+                "category": "Hacking Phases",
+                "difficulty": "medium",
+                "hint": "Identifying ports and active devices",
+                "options": [
+                    "Gathering social media information",
+                    "Identifying open ports, active devices, and services on the target network",
+                    "Breaking into the system",
+                    "Creating a final report"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "In the Gaining Access phase, what does the hacker do?",
+                "category": "Hacking Phases",
+                "difficulty": "medium",
+                "hint": "Using discovered vulnerabilities",
+                "options": [
+                    "Uses vulnerabilities discovered during scanning to gain unauthorized access to the system",
+                    "Only scans the network",
+                    "Documents the results",
+                    "Deletes all files"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What is the purpose of the Maintaining Access phase?",
+                "category": "Hacking Phases",
+                "difficulty": "medium",
+                "hint": "Keeping a foothold in the system",
+                "options": [
+                    "Deleting all data",
+                    "Fixing security vulnerabilities",
+                    "Maintaining a foothold in the target system to perform additional actions like data extraction",
+                    "Ending the test immediately"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What does the final Covering Tracks phase involve?",
+                "category": "Hacking Phases",
+                "difficulty": "medium",
+                "hint": "Ensuring the hacker's presence remains undetected",
+                "options": [
+                    "Ensuring the hacker's presence remains undetected by removing evidence",
+                    "Publishing results online",
+                    "Sending a report to management",
+                    "Installing more tools"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What is the definition of Malware?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "easy",
+                "hint": "Malicious software",
+                "options": [
+                    "A program to protect systems",
+                    "A tool to speed up the network",
+                    "A new operating system",
+                    "Software designed to damage, disrupt, or gain unauthorized access to computer systems"
+                ],
+                "correct": 3
+            },
+            {
+                "lecture": "1",
+                "question": "What is a Vulnerability in cybersecurity context?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "easy",
+                "hint": "A weakness in the system",
+                "options": [
+                    "A new feature in the system",
+                    "A weakness in a system that can be exploited by an attacker to perform unauthorized actions",
+                    "An advanced protection program",
+                    "A type of database"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is an Exploit?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "medium",
+                "hint": "Code or command that takes advantage of a vulnerability",
+                "options": [
+                    "A piece of software, code, or sequence of commands that takes advantage of a specific vulnerability",
+                    "A backup tool",
+                    "A type of virus",
+                    "An antivirus program"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What does SQL Injection mean?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "medium",
+                "hint": "An attack targeting databases",
+                "options": [
+                    "A method to improve database performance",
+                    "A new programming language",
+                    "An attack technique that exploits vulnerabilities in database applications",
+                    "A backup creation tool"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What is Phishing?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "easy",
+                "hint": "A social engineering attack",
+                "options": [
+                    "An advanced encryption technique",
+                    "A type of firewall",
+                    "A social engineering attack used to trick users into revealing sensitive information",
+                    "A secure network protocol"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What is Ransomware?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "medium",
+                "hint": "Software that encrypts data and demands ransom",
+                "options": [
+                    "A program to encrypt data for protection",
+                    "A type of malware that encrypts victim's data and demands ransom for decryption",
+                    "A cloud backup tool",
+                    "A password management system"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is a DoS Attack?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "medium",
+                "hint": "Denial of Service attack",
+                "options": [
+                    "A method to speed up services",
+                    "A type of encryption",
+                    "An attack aimed at making a service unavailable by flooding it with excessive traffic",
+                    "A new security protocol"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What does Firewall mean?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "easy",
+                "hint": "A network defense system",
+                "options": [
+                    "A network security system that monitors and controls incoming and outgoing traffic",
+                    "A program to speed up the internet",
+                    "A type of virus",
+                    "A data analysis tool"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What is an IDS (Intrusion Detection System)?",
+                "category": "Cybersecurity Terms",
+                "difficulty": "medium",
+                "hint": "Intrusion detection system",
+                "options": [
+                    "A network acceleration system",
+                    "An email management program",
+                    "A system that monitors the network or system for malicious activity or policy violations",
+                    "A website development tool"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What does the C in the CIA triad represent?",
+                "category": "CIA Triad",
+                "difficulty": "easy",
+                "hint": "Related to information privacy",
+                "options": [
+                    "Compression",
+                    "Confidentiality",
+                    "Certification",
+                    "Consistency"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is the Confidentiality principle?",
+                "category": "CIA Triad",
+                "difficulty": "medium",
+                "hint": "Related to authorized access to information",
+                "options": [
+                    "Ensuring fast data access",
+                    "Ensuring information is accessible only to those authorized to access it",
+                    "Verifying data accuracy",
+                    "24/7 service availability"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What does the Integrity principle mean?",
+                "category": "CIA Triad",
+                "difficulty": "medium",
+                "hint": "Related to data accuracy and completeness",
+                "options": [
+                    "Maintaining data accuracy and completeness throughout its lifecycle",
+                    "Data processing speed",
+                    "Providing multiple backups",
+                    "Encrypting all data"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What is the Availability principle in the CIA triad?",
+                "category": "CIA Triad",
+                "difficulty": "medium",
+                "hint": "Related to resource accessibility",
+                "options": [
+                    "Providing maximum network speed",
+                    "Protecting data from theft",
+                    "Ensuring authorized users have reliable and timely access to resources",
+                    "Encrypting all communications"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "Why is balancing the three CIA elements important?",
+                "category": "CIA Triad",
+                "difficulty": "hard",
+                "hint": "Excessive focus on one aspect weakens others",
+                "options": [
+                    "To reduce costs only",
+                    "To speed up application development",
+                    "Because excessive focus on one element often weakens the others",
+                    "To facilitate maintenance"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What's the difference between Passive and Active attacks?",
+                "category": "Attack Types",
+                "difficulty": "medium",
+                "hint": "Passive monitors only, active makes changes",
+                "options": [
+                    "Passive is faster than active",
+                    "Passive attacks monitor systems without changing data, while active attacks disrupt or harm system resources",
+                    "Passive requires more complex tools",
+                    "There's no real difference"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What are common Attack Vectors?",
+                "category": "Attack Vectors",
+                "difficulty": "medium",
+                "hint": "Methods attackers use to breach systems",
+                "options": [
+                    "Free and open-source software",
+                    "Compromised credentials, malware, phishing, insider threats, unpatched systems",
+                    "Cloud computing usage",
+                    "Smartphone applications"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is Social Engineering?",
+                "category": "Attack Vectors",
+                "difficulty": "medium",
+                "hint": "Manipulating people",
+                "options": [
+                    "Manipulating people to reveal confidential information or perform actions that compromise security",
+                    "An advanced software technique",
+                    "A type of firewall",
+                    "A new network protocol"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What are types of Malware attacks?",
+                "category": "Attack Categories",
+                "difficulty": "medium",
+                "hint": "Viruses, worms, and ransomware",
+                "options": [
+                    "Only viruses",
+                    "Viruses, worms, ransomware, spyware",
+                    "Only spyware",
+                    "Only adware"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What are Network Attacks?",
+                "category": "Attack Categories",
+                "difficulty": "medium",
+                "hint": "Attacks targeting the network",
+                "options": [
+                    "Attacks on applications only",
+                    "DDoS, Man-in-the-Middle (MITM), Sniffing",
+                    "Attacks on physical devices only",
+                    "Attacks on databases only"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What are Application Attacks?",
+                "category": "Attack Categories",
+                "difficulty": "medium",
+                "hint": "Attacks targeting applications and web",
+                "options": [
+                    "Network attacks only",
+                    "SQL Injection, XSS, authentication vulnerabilities",
+                    "Virus attacks only",
+                    "Mobile device attacks only"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What are Credential Attacks?",
+                "category": "Attack Categories",
+                "difficulty": "medium",
+                "hint": "Attacks on credentials",
+                "options": [
+                    "Attacks on physical devices",
+                    "Network attacks only",
+                    "Database attacks only",
+                    "Brute Force, Credential Stuffing, Password Spraying"
+                ],
+                "correct": 3
+            },
+            {
+                "lecture": "1",
+                "question": "What are Supply Chain Attacks?",
+                "category": "Attack Categories",
+                "difficulty": "hard",
+                "hint": "Attacks through the supply chain",
+                "options": [
+                    "Attacks on physical warehouses",
+                    "Attacks on transportation",
+                    "Poisoned updates and compromised third-party software",
+                    "Attacks on suppliers only"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "1",
+                "question": "What are common reconnaissance tools?",
+                "category": "Reconnaissance & Scanning",
+                "difficulty": "medium",
+                "hint": "Information gathering tools",
+                "options": [
+                    "OSINT, social media analysis, public records",
+                    "Web browsers only",
+                    "Antivirus programs only",
+                    "Encryption tools only"
+                ],
+                "correct": 0
+            },
+            {
+                "lecture": "1",
+                "question": "What information is gathered in the reconnaissance phase?",
+                "category": "Reconnaissance & Scanning",
+                "difficulty": "medium",
+                "hint": "Network, domain, and employee information",
+                "options": [
+                    "Email addresses only",
+                    "Network information, domain details, employee data, technology stack, organizational structure",
+                    "IP addresses only",
+                    "Usernames only"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "1",
+                "question": "What is the importance of documented ethical hacking?",
+                "category": "Ethical Hacking Basics",
+                "difficulty": "medium",
+                "hint": "Recording all actions and findings",
+                "options": [
+                    "Not documenting anything for confidentiality",
+                    "Documenting final results only",
+                    "Recording all actions and findings comprehensively",
+                    "Documenting errors only"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the definition of Footprinting?",
+                "category": "Footprinting Basics",
+                "difficulty": "easy",
+                "hint": "Process of gathering information about a target",
+                "options": [
+                    "Process of hacking systems",
+                    "Process of software development",
+                    "Process of gathering information about a target (organization, domain, person)",
+                    "Process of data encryption"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What are the two types of reconnaissance in Footprinting?",
+                "category": "Footprinting Basics",
+                "difficulty": "easy",
+                "hint": "Passive and Active",
+                "options": [
+                    "Fast and Slow",
+                    "Internal and External",
+                    "Passive and Active",
+                    "Automatic and Manual"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the difference between passive and active reconnaissance?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Direct interaction with the target",
+                "options": [
+                    "Passive is faster than active",
+                    "Passive doesn't directly interact with the target, while active uses direct queries/scans",
+                    "Passive is more dangerous than active",
+                    "There's no real difference"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the main goal of Reconnaissance?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Mapping the attack surface",
+                "options": [
+                    "Application development",
+                    "Performance improvement",
+                    "Map attack surface and plan tests or defenses",
+                    "Creating backups"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the benefit of using search engines in reconnaissance?",
+                "category": "Search Engine Tools",
+                "difficulty": "medium",
+                "hint": "Low-cost, high-value passive technique",
+                "options": [
+                    "Only for general information search",
+                    "Find exposed files, indexed pages, and public records - low-cost, high-value passive technique",
+                    "Only for advertisements",
+                    "Only for SEO improvement"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is Google Dorking?",
+                "category": "Google Hacking",
+                "difficulty": "medium",
+                "hint": "Use of advanced search operators",
+                "options": [
+                    "Using Google for entertainment",
+                    "Improving website visibility in Google",
+                    "Use advanced operators like 'filetype':, 'inurl':, 'intitle':, 'site': to find hidden content",
+                    "Creating Google ads"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is an example of using Google Dork?",
+                "category": "Google Hacking",
+                "difficulty": "medium",
+                "hint": "Search in a specific site for a specific file type",
+                "options": [
+                    "www.google.com",
+                    "search google.com",
+                    "'site':target.com 'filetype':sql",
+                    "find target"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What are the advanced Google Dorking operators?",
+                "category": "Google Hacking",
+                "difficulty": "medium",
+                "hint": "Tools for specialized search",
+                "options": [
+                    "Only regular words",
+                    "'filetype':, 'inurl':, 'intitle':, 'site':, 'intext':",
+                    "Only numbers",
+                    "Only images"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What can Google Dorking reveal?",
+                "category": "Google Hacking",
+                "difficulty": "medium",
+                "hint": "Sensitive files and configurations",
+                "options": [
+                    "Only home pages",
+                    "Only images",
+                    "Exposed config files, logs, admin pages, backup files",
+                    "Only videos"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is Shodan?",
+                "category": "Shodan",
+                "difficulty": "medium",
+                "hint": "Search engine for Internet-connected devices",
+                "options": [
+                    "A new web browser",
+                    "An operating system",
+                    "Search engine for Internet-connected devices and services (IoT, servers, DBs)",
+                    "A programming language"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does Shodan return in search results?",
+                "category": "Shodan",
+                "difficulty": "medium",
+                "hint": "Device and service information",
+                "options": [
+                    "Only website URLs",
+                    "Open ports, service banners, software versions",
+                    "Only images",
+                    "Only videos"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "Why is Shodan useful for cybersecurity?",
+                "category": "Shodan",
+                "difficulty": "medium",
+                "hint": "Discovering exposed infrastructure",
+                "options": [
+                    "To speed up the internet",
+                    "For website design improvement",
+                    "To discover exposed infrastructure and vulnerable services",
+                    "To create advertisements"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is HTTrack?",
+                "category": "Website Recon Tools",
+                "difficulty": "medium",
+                "hint": "Tool for copying websites",
+                "options": [
+                    "A web browser",
+                    "Tool to copy/download an entire website for offline analysis",
+                    "An email program",
+                    "A text editor"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the function of Web Data Extractor?",
+                "category": "Website Recon Tools",
+                "difficulty": "medium",
+                "hint": "Extracting structured data",
+                "options": [
+                    "Website design",
+                    "Data encryption",
+                    "Extract structured data (tables, links, emails)",
+                    "Database creation"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the benefit of Email Tracking (like ReadNotify)?",
+                "category": "Website Recon Tools",
+                "difficulty": "medium",
+                "hint": "Knowing when email was opened",
+                "options": [
+                    "Sending bulk emails",
+                    "Encrypting emails",
+                    "Detect when email is opened and sometimes IP/location (used in social engineering)",
+                    "Deleting spam"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is WHOIS?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "easy",
+                "hint": "Tool for querying domain registration information",
+                "options": [
+                    "A search engine",
+                    "Query tool for domain registration records to find owner, registration dates, name servers",
+                    "A web browser",
+                    "An antivirus program"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What information does WHOIS provide?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Owner and registrar information",
+                "options": [
+                    "Only IP address",
+                    "Owner, registrar, registration/expiration dates, contact data",
+                    "Only domain name",
+                    "Only email"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is NsLookup?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "DNS query tool",
+                "options": [
+                    "A backup tool",
+                    "A task scheduler",
+                    "Command-line tool used to query DNS system to get IP address for a domain",
+                    "An image editor"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the Dig tool?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Advanced DNS tool",
+                "options": [
+                    "A digging tool",
+                    "DNS tool used to query name servers for DNS records (A, MX, NS, TXT)",
+                    "A video editing program",
+                    "A file compression tool"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What do DNS A records mean?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Linking domain to IP address",
+                "options": [
+                    "Email records",
+                    "Text records",
+                    "Records that link domain name to IPv4 address",
+                    "Name server records"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What do MX records mean in DNS?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Mail servers",
+                "options": [
+                    "IP address records",
+                    "Mail server records responsible for receiving email for the domain",
+                    "Text records",
+                    "Name server records"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the benefit of the Ping command?",
+                "category": "Practical Tools",
+                "difficulty": "easy",
+                "hint": "Checking device availability",
+                "options": [
+                    "Data encryption",
+                    "File download",
+                    "Identify if the target device is active (alive)",
+                    "Software updates"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does Ping measure with RTT?",
+                "category": "Practical Tools",
+                "difficulty": "medium",
+                "hint": "Response time",
+                "options": [
+                    "Data size",
+                    "Round Trip Time - packet round-trip time",
+                    "Processor speed",
+                    "Memory size"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the Nmap tool?",
+                "category": "Practical Tools",
+                "difficulty": "medium",
+                "hint": "Famous network scanning tool",
+                "options": [
+                    "A text editor",
+                    "Tool to find open ports, discover running services, and identify operating systems",
+                    "A web browser",
+                    "An email program"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "In the practical experiment, what is the Registrar for google.com domain?",
+                "category": "Practical Part",
+                "difficulty": "medium",
+                "hint": "Domain registration company",
+                "options": [
+                    "GoDaddy",
+                    "Namecheap",
+                    "MarkMonitor Inc.",
+                    "CloudFlare"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "When was google.com domain created according to WHOIS records?",
+                "category": "Practical Part",
+                "difficulty": "hard",
+                "hint": "In the nineties",
+                "options": [
+                    "2000-01-01",
+                    "1995-06-20",
+                    "1997-09-15",
+                    "2005-12-10"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is TTL in DNS context?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Time To Live",
+                "options": [
+                    "Total Transfer Limit",
+                    "Time To Live - time the record remains valid in cache",
+                    "Type Transfer Log",
+                    "Terminal Text Length"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "Why is Google's TTL low (5 seconds)?",
+                "category": "Practical Part",
+                "difficulty": "hard",
+                "hint": "Frequent address changes",
+                "options": [
+                    "To save costs",
+                    "To speed up loading",
+                    "Because Google frequently changes IP addresses for security and performance",
+                    "Configuration error"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What are the basic commands used in the practical experiment?",
+                "category": "Practical Part",
+                "difficulty": "medium",
+                "hint": "Four reconnaissance tools",
+                "options": [
+                    "ls, cd, pwd, mkdir",
+                    "cat, grep, find, awk",
+                    "Whois, Dig, Ping, Nmap",
+                    "ssh, ftp, telnet, http"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does NOERROR mean in Dig results?",
+                "category": "Practical Part",
+                "difficulty": "medium",
+                "hint": "Successful query",
+                "options": [
+                    "An error occurred",
+                    "Domain not found",
+                    "Confirmation of successful DNS query",
+                    "Domain expired"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the main mail server for google.com?",
+                "category": "Practical Part",
+                "difficulty": "medium",
+                "hint": "Starts with smtp",
+                "options": [
+                    "mail.google.com",
+                    "mx.google.com",
+                    "smtp.google.com",
+                    "email.google.com"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does 0% Packet Loss indicate?",
+                "category": "Practical Part",
+                "difficulty": "medium",
+                "hint": "Connection stability",
+                "options": [
+                    "The network is very slow",
+                    "Fast and stable network connection",
+                    "There's a configuration error",
+                    "The network is disconnected"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What does the command 'dig google.com A' mean?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Query for IPv4 address",
+                "options": [
+                    "Delete domain record",
+                    "Update domain records",
+                    "Query A record (IPv4 address) for google.com domain",
+                    "Create new domain"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does the command 'dig google.com MX' mean?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Query for mail servers",
+                "options": [
+                    "Scan domain",
+                    "Query MX records (mail servers) for google.com domain",
+                    "Encrypt mail",
+                    "Delete mail"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the importance of knowing Name Servers for a specific domain?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Servers responsible for managing DNS",
+                "options": [
+                    "To speed up the website",
+                    "To know the servers responsible for managing DNS records for the domain",
+                    "To improve security only",
+                    "To increase traffic"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What's the difference between Passive and Active Reconnaissance?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Direct interaction",
+                "options": [
+                    "Speed only",
+                    "Passive gathers information without touching target, while active directly interacts with target",
+                    "Cost only",
+                    "Accuracy only"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "Why should Google Dorking be used ethically and legally?",
+                "category": "Google Hacking",
+                "difficulty": "medium",
+                "hint": "Legal and ethical aspect",
+                "options": [
+                    "It's not necessary",
+                    "Only for documentation",
+                    "Because it's very powerful and can reveal sensitive information, so it must be used with permission and within the law",
+                    "Only to save time"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the benefit of using Shodan filters like 'country:iq'?",
+                "category": "Shodan",
+                "difficulty": "medium",
+                "hint": "Geographically limiting results",
+                "options": [
+                    "Speed up search",
+                    "Improve accuracy only",
+                    "Restrict search results to devices in Iraq",
+                    "Encrypt results"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What does Shodan filter ' port :22' mean?",
+                "category": "Shodan",
+                "difficulty": "medium",
+                "hint": "SSH port",
+                "options": [
+                    "Search for devices with HTTP port open",
+                    "Search for devices with FTP port open",
+                    "Search for devices with SSH (22) port open",
+                    "Search for devices with SMTP port open"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the importance of curl and wget in website reconnaissance?",
+                "category": "Website Recon Tools",
+                "difficulty": "medium",
+                "hint": "Command-line tools for fetching data",
+                "options": [
+                    "Only for web browsing",
+                    "Only for file editing",
+                    "Command-line programs to get data from the web, useful for quick downloads and checking website details",
+                    "Only for data compression"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the benefit of Python + BeautifulSoup in website reconnaissance?",
+                "category": "Website Recon Tools",
+                "difficulty": "medium",
+                "hint": "HTML parsing and data extraction",
+                "options": [
+                    "Website design only",
+                    "Lightweight scripts to parse HTML and extract links, images, tables, and save results",
+                    "Data encryption only",
+                    "Database management only"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What does the command 'whois google.com' show?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "medium",
+                "hint": "Public domain registration information",
+                "options": [
+                    "Only IP address",
+                    "Public registration info : owner, registrar, dates, name servers, contact information",
+                    "Only email",
+                    "Only geographic location"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What is the importance of Domain Status in WHOIS records?",
+                "category": "Domain Reconnaissance",
+                "difficulty": "hard",
+                "hint": "Domain status and protection settings",
+                "options": [
+                    "Not important",
+                    "Shows domain status and protection settings like transfer lock and updates",
+                    "Only for decoration",
+                    "Only for statistics"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What does Initial TTL value of 128 in Ping command indicate?",
+                "category": "Practical Part",
+                "difficulty": "hard",
+                "hint": "Likely operating system",
+                "options": [
+                    "Network speed",
+                    "Usually indicates Windows operating system",
+                    "Packet size",
+                    "Number of servers"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "2",
+                "question": "What's the difference between Active and Passive Banner Grabbing?",
+                "category": "Advanced Concepts",
+                "difficulty": "hard",
+                "hint": "Sending requests vs monitoring network",
+                "options": [
+                    "Speed only",
+                    "Cost only",
+                    "Active sends requests to service and analyzes response, while passive monitors traffic without sending requests",
+                    "Accuracy only"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What is the importance of Reconnaissance in building a complete picture of the target?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Prioritizing tests",
+                "options": [
+                    "Not important",
+                    "Only for documentation",
+                    "Builds comprehensive picture of target to prioritize tests and improve defenses",
+                    "Only to waste time"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "Why must authorization always be obtained before conducting Footprinting?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Legal and ethical aspect",
+                "options": [
+                    "Not necessary",
+                    "Only for documentation",
+                    "To follow laws and obtain formal authorization to avoid legal issues",
+                    "Only to save time"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "2",
+                "question": "What information can be gathered in Passive Reconnaissance?",
+                "category": "Footprinting Basics",
+                "difficulty": "medium",
+                "hint": "Public information without interaction",
+                "options": [
+                    "Only IP addresses",
+                    "Only email",
+                    "IPs & DNS, domain ownership, email, social profiles, web technologies",
+                    "Only geographic location"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is Information Gathering in the context of penetration testing?",
+                "category": "Information Gathering",
+                "difficulty": "easy",
+                "hint": "Collecting data about the target",
+                "options": [
+                    "Software development",
+                    "Collecting data about a person, company, website or system",
+                    "Data encryption",
+                    "Creating backups"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "Why is Information Gathering the first step in penetration testing?",
+                "category": "Information Gathering",
+                "difficulty": "medium",
+                "hint": "More information increases success chances",
+                "options": [
+                    "Because it's the easiest",
+                    "Because collecting more information increases success chances later",
+                    "Because it's the fastest",
+                    "Because it's the cheapest"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What is Host Discovery?",
+                "category": "Host Discovery",
+                "difficulty": "medium",
+                "hint": "Identifying live systems on the network",
+                "options": [
+                    "Creating new servers",
+                    "Deleting old servers",
+                    "Identifying live systems on target network before scanning and vulnerability assessment",
+                    "Updating systems"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What does Host Discovery technique selection depend on?",
+                "category": "Host Discovery",
+                "difficulty": "medium",
+                "hint": "Topology and stealth requirements",
+                "options": [
+                    "Price only",
+                    "Network topology, stealth requirements, testing objectives",
+                    "Speed only",
+                    "Favorite color"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What is ICMP Ping (Ping Sweep)?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "Sending ICMP Echo requests",
+                "options": [
+                    "An encryption technique",
+                    "A type of firewall",
+                    "Technique that sends ICMP Echo requests and waits for responses to identify live devices",
+                    "An email protocol"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What are the features of ICMP Ping?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "Fast and supported but blockable",
+                "options": [
+                    "Slow and ineffective",
+                    "Very complex",
+                    "Fast and widely supported, but often blocked by firewalls and easy to detect",
+                    "Unreliable"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is the command to perform ICMP Ping using Nmap?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "Using -sn and -PE",
+                "options": [
+                    "nmap -sT 76.76.21.21",
+                    "sudo nmap -sn -PE 76.76.21.21",
+                    "nmap -sV 76.76.21.21",
+                    "nmap -O 76.76.21.21"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What is ARP Scanning?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "Linking IP to MAC addresses",
+                "options": [
+                    "Virus scanning",
+                    "Sending ARP requests to link IP addresses to MAC addresses within local broadcast range",
+                    "Data encryption",
+                    "Creating new networks"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "Why is ARP Scanning very effective on local networks (LANs)?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "ARP is essential for communication",
+                "options": [
+                    "Because it's free",
+                    "Because it's fast only",
+                    "Because ARP is fundamental to communication within the local network",
+                    "Because it's stealthy"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is the limitation of ARP Scanning?",
+                "category": "Host Discovery Techniques",
+                "difficulty": "medium",
+                "hint": "Works only in same broadcast range",
+                "options": [
+                    "Very slow",
+                    "Works only within same broadcast range; detectable on network",
+                    "Expensive",
+                    "Requires special equipment"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What is Port Scanning?",
+                "category": "Port Scanning",
+                "difficulty": "medium",
+                "hint": "Discovering open ports and services",
+                "options": [
+                    "Creating new ports",
+                    "Closing ports",
+                    "Technique to discover open ports and services on a target device",
+                    "Encrypting ports"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "Where is Port Scanning used?",
+                "category": "Port Scanning",
+                "difficulty": "medium",
+                "hint": "Cybersecurity and network management",
+                "options": [
+                    "Only in gaming",
+                    "Only in graphic design",
+                    "In cybersecurity (penetration testing, vulnerability assessment) and network management",
+                    "Only in website development"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "How does Port Scanning work?",
+                "category": "Port Scanning",
+                "difficulty": "medium",
+                "hint": "Sending packets and analyzing responses",
+                "options": [
+                    "By opening all ports",
+                    "By encrypting data",
+                    "By sending packets to ports and analyzing responses (open, closed, or filtered)",
+                    "By deleting files"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is SYN Scan (-sS)?",
+                "category": "Port Scanning Types",
+                "difficulty": "medium",
+                "hint": "Stealth and fast scan",
+                "options": [
+                    "Slow and obvious scan",
+                    "Comprehensive system scan",
+                    "Stealth and fast scan using SYN packets",
+                    "Virus scan"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What does the -sV option do in Nmap?",
+                "category": "Port Scanning Types",
+                "difficulty": "medium",
+                "hint": "Service and version detection",
+                "options": [
+                    "Virus scanning",
+                    "Service and version detection",
+                    "File deletion",
+                    "Data encryption"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What does the -p- option mean in Nmap?",
+                "category": "Port Scanning Types",
+                "difficulty": "medium",
+                "hint": "Scan all ports",
+                "options": [
+                    "Scan common ports only",
+                    "Scan all ports (1-65535)",
+                    "Scan one port",
+                    "Skip scanning"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What is Banner Grabbing?",
+                "category": "Banner Grabbing",
+                "difficulty": "medium",
+                "hint": "Collecting information from network services",
+                "options": [
+                    "Stealing banners",
+                    "Designing banners",
+                    "Technique to collect information from network services by capturing the banner message sent by servers",
+                    "Printing posters"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is a Banner in networking context?",
+                "category": "Banner Grabbing",
+                "difficulty": "medium",
+                "hint": "Message from server upon connection",
+                "options": [
+                    "A commercial advertisement",
+                    "A decorative image",
+                    "A message sent by servers when establishing a connection, including software and OS information",
+                    "A text file"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What is Nessus?",
+                "category": "Vulnerability Scanning",
+                "difficulty": "medium",
+                "hint": "Vulnerability scanner from Tenable",
+                "options": [
+                    "An operating system",
+                    "A programming language",
+                    "A vulnerability scanner from Tenable, Inc. that detects security weaknesses but doesn't exploit them",
+                    "A web browser"
+                ],
+                "correct": 2
+            },
+            {
+                "lecture": "3",
+                "question": "What does Nessus detect?",
+                "category": "Vulnerability Scanning",
+                "difficulty": "medium",
+                "hint": "Vulnerabilities and configuration errors",
+                "options": [
+                    "Only viruses",
+                    "Vulnerabilities (like outdated software and missing patches), configuration errors, compliance issues, malware, and sensitive data exposure",
+                    "Only code errors",
+                    "Only performance issues"
+                ],
+                "correct": 1
+            },
+            {
+                "lecture": "3",
+                "question": "What types of vulnerabilities does Nessus detect?",
+                "category": "Vulnerability Scanning",
+                "difficulty": "medium",
+                "hint": "Outdated software and missing patches",
+                "options": [
+                    "Only web vulnerabilities",
+                    "Outdated software, missing security patches, weak passwords, open ports",
+                    "Only database vulnerabilities",
+                    "Only network vulnerabilities"
+                ],
+                "correct": 1
+            }
+        ]

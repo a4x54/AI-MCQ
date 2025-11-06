@@ -1,0 +1,710 @@
+[
+    {
+        "lecture": "1",
+        "question": "What is the formal definition of social engineering in security context?",
+        "category": "Basic Definitions",
+        "difficulty": "easy",
+        "hint": "Think about manipulation of human psychology",
+        "options": [
+            "Network scanning and penetration testing",
+            "Physical breaking into secured facilities",
+            "Technical exploitation of software vulnerabilities", 
+            "The set of tactics that manipulate human psychology to obtain information or access"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following best describes 'pretexting'?",
+        "category": "Attack Types",
+        "difficulty": "medium",
+        "hint": "Creating a fabricated scenario",
+        "options": [
+            "Offering something tempting to entice victims",
+            "Inventing a plausible scenario to trick targets",
+            "Physically following authorized personnel",
+            "Sending mass deceptive emails"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What distinguishes spear-phishing from regular phishing?",
+        "category": "Phishing Types",
+        "difficulty": "medium",
+        "hint": "Think about targeting specificity",
+        "options": [
+            "It only targets high-level executives",
+            "It uses voice calls instead of emails",
+            "It involves physical devices like USB drives",
+            "It targets specific individuals using contextual information"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which psychological principle involves people complying with perceived authority?",
+        "category": "Psychological Principles",
+        "difficulty": "easy",
+        "hint": "Think about titles and uniforms",
+        "options": [
+            "Social Proof",
+            "Reciprocity",
+            "Authority", 
+            "Urgency"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What was Kevin Mitnick's primary method of social engineering?",
+        "category": "Case Studies",
+        "difficulty": "medium",
+        "hint": "Think about communication methods in 1980s-1990s",
+        "options": [
+            "USB baiting attacks",
+            "Phone pretexting and impersonation",
+            "Social media manipulation",
+            "Email phishing campaigns"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "Which attack type involves offering a service in exchange for information?",
+        "category": "Attack Types",
+        "difficulty": "medium",
+        "hint": "Latin phrase meaning 'something for something'",
+        "options": [
+            "Tailgating",
+            "Pretexting",
+            "Quid pro quo",
+            "Baiting"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What is 'vishing'?",
+        "category": "Attack Types",
+        "difficulty": "easy",
+        "hint": "Combination of voice and phishing",
+        "options": [
+            "Virtual reality phishing",
+            "Video phishing",
+            "Visual phishing",
+            "Voice phishing via phone calls"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which mitigation is most effective against baiting attacks?",
+        "category": "Mitigations",
+        "difficulty": "medium",
+        "hint": "Think about physical device controls",
+        "options": [
+            "Multi-factor authentication",
+            "Background checks",
+            "USB control policies",
+            "Email filtering"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What does the principle of 'social proof' exploit?",
+        "category": "Psychological Principles",
+        "difficulty": "medium",
+        "hint": "People follow what others are doing",
+        "options": [
+            "The response to authority figures",
+            "The reaction to time pressure",
+            "The tendency to follow crowd behavior",
+            "The need to return favors"
+            
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which historical period saw the rise of phone pretexting?",
+        "category": "Historical Evolution",
+        "difficulty": "hard",
+        "hint": "Early remote voice-based attacks",
+        "options": [
+            "Social media era",
+            "Telephone era",
+            "Pre-digital era",
+            "Internet era"
+            
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What is the key property that distinguishes social engineering from technical attacks?",
+        "category": "Basic Concepts",
+        "difficulty": "easy",
+        "hint": "Focus on human factors vs technical vulnerabilities",
+        "options": [
+            "Requirement of physical access",
+            "Dependence on software bugs",
+            "Exploitation of human factors and psychology",
+            "Use of advanced technology"
+            
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which attack involves physically following authorized personnel into restricted areas?",
+        "category": "Physical Attacks",
+        "difficulty": "easy",
+        "hint": "Also known as piggybacking",
+        "options": [
+            "Impersonation",
+            "Pretexting",
+            "Baiting",
+            "Tailgating"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "What makes modern social engineering attacks more effective?",
+        "category": "Modern Trends",
+        "difficulty": "medium",
+        "hint": "Think about data availability",
+        "options": [
+            "Decreased use of email",
+            "Reduced technical controls",
+            "Lack of security awareness",
+            "Rich personal data from social networks"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which psychological principle involves people feeling obliged to return favors?",
+        "category": "Psychological Principles",
+        "difficulty": "medium",
+        "hint": "Mutual exchange concept",
+        "options": [
+            "Consistency",
+            "Reciprocity",
+            "Liking",
+            "Authority"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What is 'smishing'?",
+        "category": "Attack Types",
+        "difficulty": "easy",
+        "hint": "SMS-based attack",
+        "options": [
+            "System monitoring",
+            "Secure messaging attacks",
+            "Social media phishing",
+            "SMS phishing"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which Kevin Mitnick technique involved searching through trash for information?",
+        "category": "Case Studies",
+        "difficulty": "medium",
+        "hint": "Physical information gathering",
+        "options": [
+            "Phone manipulation",
+            "Dumpster diving",
+            "Impersonation",
+            "Pretexting"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What is the primary defense against deepfake attacks?",
+        "category": "Modern Attacks",
+        "difficulty": "hard",
+        "hint": "Multiple verification methods",
+        "options": [
+            "Out-of-band confirmation",
+            "Stronger passwords",
+            "Email filtering",
+            "Better firewalls"
+            
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which principle exploits people's desire to appear consistent with prior statements?",
+        "category": "Psychological Principles",
+        "difficulty": "hard",
+        "hint": "Used in multi-step manipulations",
+        "options": [
+            "Consistency",
+            "Social Proof",
+            "Authority",
+            "Urgency"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "What type of phishing specifically targets high-level executives?",
+        "category": "Phishing Types",
+        "difficulty": "medium",
+        "hint": "Think about big targets",
+        "options": [
+            "Clone phishing",
+            "Vishing",
+            "Whaling",
+            "Spear-phishing"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which mitigation helps prevent pretexting attacks?",
+        "category": "Mitigations",
+        "difficulty": "medium",
+        "hint": "Verification procedures",
+        "options": [
+            "USB controls",
+            "Physical barriers",
+            "Email filtering",
+            "Strict verification procedures"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "What historical factor made social engineering scalable?",
+        "category": "Historical Evolution",
+        "difficulty": "medium",
+        "hint": "Think about communication technology",
+        "options": [
+            "Social networks",
+            "Email and the web",
+            "Mobile phones",
+            "Telephone systems"
+          
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "Which psychological principle uses time pressure to force quick decisions?",
+        "category": "Psychological Principles",
+        "difficulty": "easy",
+        "hint": "Limited time offers",
+        "options": [
+            "Reciprocity",
+            "Liking",
+            "Urgency",
+            "Authority"
+            
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What is the main lesson from Kevin Mitnick's case?",
+        "category": "Case Studies",
+        "difficulty": "medium",
+        "hint": "Human factor in security",
+        "options": [
+            "Network security is paramount",
+            "Humans are the weakest link in security",
+            "Physical security is sufficient",
+            "Technical vulnerabilities are most important"
+
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "Which attack involves creating a copy of a legitimate message with malicious links?",
+        "category": "Phishing Types",
+        "difficulty": "hard",
+        "hint": "Duplicate with modifications",
+        "options": [
+            "Baiting",
+            "Whaling",
+            "Spear-phishing",
+            "Clone phishing"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "What modern trend combines social engineering with supply-chain compromises?",
+        "category": "Modern Trends",
+        "difficulty": "hard",
+        "hint": "Multiple attack vectors",
+        "options": [
+            "Pure social engineering",
+            "Technical exploits only",
+            "Hybrid attacks",
+            "Physical attacks only"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Why is understanding psychology crucial in cybersecurity defense?",
+        "category": "Fundamental Concepts",
+        "difficulty": "easy",
+        "hint": "Think about human decision-making",
+        "options": [
+            "It helps understand why people make security mistakes",
+            "Technical defenses are sufficient alone",
+            "Psychology replaces the need for technical controls", 
+            "It only helps in post-incident analysis"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is a cognitive bias?",
+        "category": "Cognitive Biases",
+        "difficulty": "medium",
+        "hint": "Systematic thinking patterns",
+        "options": [
+            "A network configuration error",
+            "A predictable deviation from rational judgment",
+            "A technical vulnerability in software",
+            "A physical security weakness"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which bias involves compliance with perceived authority figures?",
+        "category": "Cognitive Biases",
+        "difficulty": "easy",
+        "hint": "Titles and uniforms influence",
+        "options": [
+            "Reciprocity",
+            "Social proof",
+            "Scarcity",
+            "Authority bias"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "2",
+        "question": "How do attackers exploit the social proof bias?",
+        "category": "Bias Exploitation",
+        "difficulty": "medium",
+        "hint": "Group behavior influence",
+        "options": [
+            "By showing authority credentials",
+            "By claiming everyone else has complied",
+            "By using time pressure",
+            "By offering free services"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "What is the reciprocity principle?",
+        "category": "Psychological Principles",
+        "difficulty": "medium",
+        "hint": "Obligation to return favors",
+        "options": [
+            "People make quick decisions under pressure",
+            "People follow authority figures",
+            "People trust familiar faces",
+            "People feel obliged to return favors"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "2",
+        "question": "Which defense is effective against authority bias exploitation?",
+        "category": "Defense Strategies",
+        "difficulty": "medium",
+        "hint": "Multiple verification methods",
+        "options": [
+            "Data encryption",
+            "Out-of-band verification",
+            "Stronger passwords",
+            "Network segmentation"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "How does urgency affect decision-making?",
+        "category": "Urgency Tactics",
+        "difficulty": "medium",
+        "hint": "Cognitive processing under pressure",
+        "options": [
+            "It narrows attention and promotes heuristic use",
+            "It encourages careful consideration",
+            "It improves verification processes",
+            "It enhances analytical thinking"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is the availability heuristic?",
+        "category": "Cognitive Biases",
+        "difficulty": "hard",
+        "hint": "Judgment based on easily recalled examples",
+        "options": [
+            "Following authority without question",
+            "Returning favors automatically",
+            "Judging likelihood by easily recalled examples",
+            "Making decisions under time pressure"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Which bias involves favoring information that confirms existing beliefs?",
+        "category": "Cognitive Biases",
+        "difficulty": "medium",
+        "hint": "Seeking confirming evidence",
+        "options": [
+            "Authority bias",
+            "Confirmation bias",
+            "Scarcity bias",
+            "Reciprocity bias"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "What is decision fatigue?",
+        "category": "Cognitive Principles",
+        "difficulty": "medium",
+        "hint": "Mental exhaustion from decision-making",
+        "options": [
+            "Increased alertness under pressure",
+            "Enhanced verification processes",
+            "Improved analytical thinking",
+            "Reduced decision quality after many choices"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "2",
+        "question": "How do attackers manufacture trust?",
+        "category": "Trust Exploitation",
+        "difficulty": "medium",
+        "hint": "Multiple trust-building techniques",
+        "options": [
+            "Using branding and visual cues",
+            "Installing firewalls",
+            "Using complex passwords",
+            "Implementing strong encryption"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is a red flag for detecting manufactured authority?",
+        "category": "Detection Methods",
+        "difficulty": "medium",
+        "hint": "Communication channel anomalies",
+        "options": [
+            "Professional language",
+            "Strong encryption",
+            "Channel mismatch",
+            "Detailed technical explanations"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Which technical countermeasure helps reduce trust exploitation?",
+        "category": "Technical Defenses",
+        "difficulty": "hard",
+        "hint": "Cryptographic verification",
+        "options": [
+            "Network monitoring",
+            "Stronger passwords",
+            "Data backups",
+            "Signed internal messages"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "2",
+        "question": "What is 'friction' in security context?",
+        "category": "Defense Strategies",
+        "difficulty": "medium",
+        "hint": "Intentional barriers to quick actions",
+        "options": [
+            "Network slowdowns",
+            "Additional verification steps for critical actions",
+            "User inconvenience",
+            "Software bugs"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which urgency tactic uses emotional appeals?",
+        "category": "Urgency Tactics",
+        "difficulty": "medium",
+        "hint": "Emotion-driven pressure",
+        "options": [
+            "Technical explanations",
+            "Statistical data",
+            "Invoking fear or excitement",
+            "Logical arguments"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "What is the effect of cognitive load on security decisions?",
+        "category": "Cognitive Principles",
+        "difficulty": "hard",
+        "hint": "Mental capacity limitations",
+        "options": [
+            "Improved analytical thinking",
+            "Increased reliance on heuristics",
+            "Better password creation",
+            "Enhanced verification"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "How can organizations defend against scarcity tactics?",
+        "category": "Defense Strategies",
+        "difficulty": "medium",
+        "hint": "Training and procedures",
+        "options": [
+            "Implement stronger encryption",
+            "Increase network bandwidth",
+            "Teach pause-and-verify rules",
+            "Add more security staff"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "What is gradual grooming in social engineering?",
+        "category": "Attack Techniques",
+        "difficulty": "hard",
+        "hint": "Progressive trust building",
+        "options": [
+            "Immediate high-pressure demands",
+            "Multiple low-risk contacts before high-value ask",
+            "Technical vulnerability exploitation",
+            "Physical intrusion attempts"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which defense uses standardized communication templates?",
+        "category": "Process Defenses",
+        "difficulty": "medium",
+        "hint": "Structured request formats",
+        "options": [
+            "Network segmentation",
+            "Data encryption standards",
+            "Role-limited communication templates",
+            "Strong password policies"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "What does multichannel reinforcement achieve?",
+        "category": "Attack Techniques",
+        "difficulty": "hard",
+        "hint": "Multiple contact methods",
+        "options": [
+            "Technical exploitation",
+            "Network access",
+            "Increased believability",
+            "Data theft"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Which psychological principle involves people trusting those they like?",
+        "category": "Psychological Principles",
+        "difficulty": "medium",
+        "hint": "Personal attraction influence",
+        "options": [
+            "Scarcity",
+            "Authority",
+            "Consistency",
+            "Liking"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "2",
+        "question": "What is a key indicator of pretexting in phone communications?",
+        "category": "Detection Methods",
+        "difficulty": "medium",
+        "hint": "Verification absence",
+        "options": [
+            "Detailed explanations",
+            "Refusing standard verification",
+            "Professional tone",
+            "Multiple call attempts"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "How does vividness affect persuasion?",
+        "category": "Psychological Principles",
+        "difficulty": "hard",
+        "hint": "Memorable stories impact",
+        "options": [
+            "Reduces message effectiveness",
+            "Has no effect on persuasion",
+            "Makes messages more persuasive",
+            "Only affects technical staff"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Which automation helps against urgency-based attacks?",
+        "category": "Technical Defenses",
+        "difficulty": "medium",
+        "hint": "Systematic request checking",
+        "options": [
+            "Automatic password changes",
+            "Flagging requests that bypass approval workflows",
+            "Network traffic analysis",
+            "Data backup systems"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "What is the primary goal of security awareness training about psychology?",
+        "category": "Training Objectives",
+        "difficulty": "easy",
+        "hint": "Behavioral change focus",
+        "options": [
+            "Replace all technical controls",
+            "Change how people make security decisions",
+            "Teach technical programming skills",
+            "Eliminate all human errors"
+        ],
+        "correct": 1
+    }
+
+]

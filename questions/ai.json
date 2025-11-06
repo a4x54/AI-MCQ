@@ -1,0 +1,1501 @@
+[
+    {
+        "lecture": "1",
+        "question": "What is the main objective of Artificial Intelligence (AI)?",
+        "category": "AI Basics",
+        "difficulty": "easy",
+        "hint": "Think of machines performing human-like reasoning.",
+        "options": [
+            "To store massive data efficiently",
+            "To simulate human intelligence in machines",
+            "To design computer interfaces",
+            "To speed up hardware components"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "Which term refers to a machine’s ability to learn from experience?",
+        "category": "AI Fundamentals",
+        "difficulty": "easy",
+        "hint": "It’s what allows AI to improve without reprogramming.",
+        "options": [
+            "Machine Learning",
+            "Network Automation",
+            "Database Management",
+            "Cloud Computing"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Who proposed the famous question 'Can machines think?'",
+        "category": "AI History",
+        "difficulty": "easy",
+        "hint": "He’s known as the father of computer science.",
+        "options": [
+            "Geoffrey Hinton",
+            "Alan Turing",
+            "Marvin Minsky",
+            "John McCarthy"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "When was the term 'Artificial Intelligence' first introduced?",
+        "category": "AI History",
+        "difficulty": "easy",
+        "hint": "It was coined during an academic conference in the 1950s.",
+        "options": [
+            "1956 at the Dartmouth Conference",
+            "1980 at MIT Symposium",
+            "1943 during World War II",
+            "1965 at Stanford University"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following is NOT a characteristic of AI?",
+        "category": "AI Features",
+        "difficulty": "easy",
+        "hint": "Think about what doesn’t involve learning or adaptability.",
+        "options": [
+            "Goal-oriented behavior",
+            "Fixed, unchanging responses",
+            "Autonomy in decision-making",
+            "Ability to learn from data"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "AI systems that can adapt to new inputs demonstrate which property?",
+        "category": "AI Characteristics",
+        "difficulty": "easy",
+        "hint": "It’s the ability to adjust behavior based on new data.",
+        "options": [
+            "Parallelism",
+            "Scalability",
+            "Automation",
+            "Adaptability"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following examples best illustrates AI in daily life?",
+        "category": "AI Applications",
+        "difficulty": "easy",
+        "hint": "Think about a system that responds intelligently to voice commands.",
+        "options": [
+            "Voice assistants like Siri or Alexa",
+            "Static webpages",
+            "Manual data entry in Excel",
+            "Basic calculators"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "What is a common subfield of AI that focuses on understanding human language?",
+        "category": "AI Subfields",
+        "difficulty": "easy",
+        "hint": "It’s abbreviated as NLP.",
+        "options": [
+            "Computer Vision",
+            "Expert Systems",
+            "Natural Language Processing",
+            "Data Mining"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which decade saw the emergence of expert systems in AI?",
+        "category": "AI History",
+        "difficulty": "easy",
+        "hint": "These systems became popular in medicine and finance in that era.",
+        "options": [
+            "1980s",
+            "2000s",
+            "1960s",
+            "1990s"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which famous AI system defeated Garry Kasparov in 1997?",
+        "category": "AI Milestones",
+        "difficulty": "easy",
+        "hint": "It was developed by IBM.",
+        "options": [
+            "Watson",
+            "AlphaGo",
+            "Deep Blue",
+            "Perceptron"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which subfield of AI deals with machines perceiving the physical world through images and videos?",
+        "category": "AI Subfields",
+        "difficulty": "easy",
+        "hint": "It’s about teaching machines to see.",
+        "options": [
+            "Robotics",
+            "Fuzzy Logic",
+            "Cognitive Computing",
+            "Computer Vision"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which area of AI is inspired by human brain structures?",
+        "category": "AI Subfields",
+        "difficulty": "easy",
+        "hint": "It uses artificial neurons organized in layers.",
+        "options": [
+            "Expert Systems",
+            "Evolutionary Computation",
+            "Rule-Based Systems",
+            "Neural Networks"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "What differentiates AI from traditional programming?",
+        "category": "AI Conceptual",
+        "difficulty": "medium",
+        "hint": "One uses learning from data rather than fixed rules.",
+        "options": [
+            "AI runs faster than normal software",
+            "AI learns from data instead of explicit instructions",
+            "AI requires special hardware only",
+            "AI uses larger memory storage"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What is the main difference between AI and Data Mining?",
+        "category": "AI vs Data Mining",
+        "difficulty": "medium",
+        "hint": "One acts, the other discovers.",
+        "options": [
+            "AI acts intelligently, Data Mining discovers patterns",
+            "AI stores data, Data Mining deletes it",
+            "AI visualizes patterns, Data Mining classifies them",
+            "AI builds databases, Data Mining manages them"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which AI subfield focuses on problem-solving through reasoning and knowledge representation?",
+        "category": "AI Subfields",
+        "difficulty": "medium",
+        "hint": "It mimics how experts think logically.",
+        "options": [
+            "Fuzzy Logic",
+            "Expert Systems",
+            "Machine Learning",
+            "Computer Vision"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "Deep learning is a subset of which field?",
+        "category": "AI Layers",
+        "difficulty": "medium",
+        "hint": "It’s part of ML but with many layers of neurons.",
+        "options": [
+            "Cognitive Computing",
+            "Machine Learning",
+            "Robotics",
+            "Data Mining"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "In AI, what does the term 'Autonomy' refer to?",
+        "category": "AI Characteristics",
+        "difficulty": "medium",
+        "hint": "It means the system can operate without human control.",
+        "options": [
+            "Ability to multitask",
+            "Ability to store large data",
+            "Ability to make decisions independently",
+            "Ability to work in groups"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which subfield of AI focuses on designing systems that can act in the real physical world?",
+        "category": "AI Applications",
+        "difficulty": "medium",
+        "hint": "These systems can move, manipulate, or interact physically.",
+        "options": [
+            "Robotics",
+            "Speech Processing",
+            "Expert Systems",
+            "Computer Vision"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which subfield of AI deals with uncertainty and imprecise reasoning?",
+        "category": "AI Reasoning",
+        "difficulty": "medium",
+        "hint": "It uses degrees of truth rather than binary logic.",
+        "options": [
+            "Deep Learning",
+            "Rule-Based Systems",
+            "Evolutionary Computation",
+            "Fuzzy Logic"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "What is the core purpose of Cognitive Computing?",
+        "category": "AI Subfields",
+        "difficulty": "medium",
+        "hint": "It mimics human thought processes such as learning and memory.",
+        "options": [
+            "Simulating human thinking and reasoning",
+            "Handling network traffic",
+            "Storing massive databases",
+            "Processing images and videos"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which AI subfield helps computers understand and generate human speech?",
+        "category": "AI Subfields",
+        "difficulty": "medium",
+        "hint": "It’s used in virtual assistants and transcription systems.",
+        "options": [
+            "Reinforcement Learning",
+            "Computer Vision",
+            "Neural Networking",
+            "Speech and Audio Processing"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which AI application can detect fraudulent activities in real time?",
+        "category": "AI in Cybersecurity",
+        "difficulty": "medium",
+        "hint": "It learns behavioral patterns to flag anomalies.",
+        "options": [
+            "Traditional Rule Filters",
+            "Manual Transaction Checks",
+            "AI-based Fraud Detection Systems",
+            "Database Triggers"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which AI technique is used for optimizing network defense strategies through simulation?",
+        "category": "AI Optimization",
+        "difficulty": "hard",
+        "hint": "It’s inspired by natural selection.",
+        "options": [
+            "Expert Systems",
+            "Evolutionary Computation",
+            "Deep Neural Networks",
+            "Fuzzy Logic"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "What does Explainable AI (XAI) aim to achieve?",
+        "category": "Modern AI",
+        "difficulty": "hard",
+        "hint": "It focuses on making AI decisions understandable.",
+        "options": [
+            "Transparency in AI decision-making",
+            "Stronger neural layers",
+            "Data encryption",
+            "Faster computation"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following is an ethical concern in modern AI systems?",
+        "category": "AI Ethics",
+        "difficulty": "hard",
+        "hint": "Think about fairness and bias in predictions.",
+        "options": [
+            "Hardware Cost",
+            "System Latency",
+            "Algorithmic Bias",
+            "Data Compression"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following is considered a real-world cybersecurity application of AI?",
+        "category": "AI Applications",
+        "difficulty": "medium",
+        "hint": "Think of AI systems that analyze behavior for threats.",
+        "options": [
+            "AI-based Intrusion Detection Systems",
+            "Cloud storage optimization",
+            "Image enhancement algorithms",
+            "Operating system schedulers"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "Which branch of AI uses logical rules to make inferences similar to human experts?",
+        "category": "AI Branches",
+        "difficulty": "medium",
+        "hint": "These systems were popular in the 1980s for decision-making tasks.",
+        "options": [
+            "Fuzzy Logic Systems",
+            "Expert Systems",
+            "Neural Networks",
+            "Reinforcement Learning"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "In cybersecurity, AI helps identify zero-day attacks by detecting what?",
+        "category": "AI in Security",
+        "difficulty": "hard",
+        "hint": "Zero-day attacks are unknown, so AI looks for unusual activities.",
+        "options": [
+            "Pattern anomalies and deviations from normal behavior",
+            "Known malware signatures",
+            "Firewall rule violations",
+            "Encrypted network packets"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "What is a major limitation of AI-based defense systems?",
+        "category": "AI Limitations",
+        "difficulty": "hard",
+        "hint": "Think about data quality and computational requirements.",
+        "options": [
+            "They cannot adapt to new attack types",
+            "They only work offline",
+            "They are slower than manual detection",
+            "They require large, high-quality datasets for training"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "1",
+        "question": "Which AI approach involves agents learning optimal behavior through feedback?",
+        "category": "AI Learning Types",
+        "difficulty": "medium",
+        "hint": "It uses reward and penalty signals to improve over time.",
+        "options": [
+            "Unsupervised Learning",
+            "Supervised Learning",
+            "Reinforcement Learning",
+            "Deep Learning"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What type of learning is used when AI is trained on labeled datasets?",
+        "category": "Machine Learning",
+        "difficulty": "easy",
+        "hint": "The system knows the correct answers during training.",
+        "options": [
+            "Unsupervised Learning",
+            "Reinforcement Learning",
+            "Supervised Learning",
+            "Transfer Learning"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "Which of the following AI algorithms is commonly used for classification?",
+        "category": "Machine Learning",
+        "difficulty": "medium",
+        "hint": "It separates data into categories using a hyperplane.",
+        "options": [
+            "Support Vector Machine (SVM)",
+            "K-Means Clustering",
+            "Apriori Algorithm",
+            "Genetic Algorithm"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "1",
+        "question": "What distinguishes Deep Learning from traditional Machine Learning?",
+        "category": "Deep Learning",
+        "difficulty": "medium",
+        "hint": "It involves multiple hidden layers in neural networks.",
+        "options": [
+            "Manual rule creation for all outcomes",
+            "Use of multiple neural network layers for feature extraction",
+            "Dependence on small datasets",
+            "Reliance on symbolic logic"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "1",
+        "question": "How does AI improve phishing detection systems?",
+        "category": "AI in Security",
+        "difficulty": "medium",
+        "hint": "It identifies patterns and language indicators in messages.",
+        "options": [
+            "By encrypting all user emails",
+            "By blocking specific IP addresses only",
+            "By analyzing email content and detecting anomalies",
+            "By manually reviewing all emails"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "1",
+        "question": "What ethical principle ensures AI systems make fair and unbiased cybersecurity decisions?",
+        "category": "AI Ethics",
+        "difficulty": "hard",
+        "hint": "It’s about ensuring equality and preventing discrimination in AI outcomes.",
+        "options": [
+            "Scalability",
+            "Fairness and Transparency",
+            "Automation",
+            "Optimization"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "What does data mining primarily aim to discover?",
+        "category": "Data Mining Basics",
+        "difficulty": "easy",
+        "hint": "Think about hidden knowledge extraction",
+        "options": [
+            "Patterns and insights from large datasets",
+            "Faster data storage systems",
+            "User interface designs",
+            "Encryption algorithms"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is the primary goal of Data Mining in cybersecurity?",
+        "category": "Data Mining Basics",
+        "difficulty": "easy",
+        "hint": "Think about uncovering hidden attack patterns.",
+        "options": [
+            "Collecting user credentials",
+            "Identifying hidden patterns in large datasets",
+            "Encrypting system logs",
+            "Deleting redundant data"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which type of Data Mining focuses on grouping similar attack behaviors?",
+        "category": "Data Mining Techniques",
+        "difficulty": "easy",
+        "hint": "It clusters related patterns together.",
+        "options": [
+            "Classification",
+            "Regression",
+            "Clustering",
+            "Association"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "What is a common use of Association Rule Mining in cybersecurity?",
+        "category": "Mining Applications",
+        "difficulty": "easy",
+        "hint": "Think about rules that reveal frequent co-occurrences of events.",
+        "options": [
+            "Detecting phishing emails",
+            "Finding relationships between security events",
+            "Measuring malware complexity",
+            "Analyzing encryption algorithms"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which algorithm is often used for clustering in cybersecurity data analysis?",
+        "category": "Mining Algorithms",
+        "difficulty": "easy",
+        "hint": "It partitions data into k groups.",
+        "options": [
+            "Apriori",
+            "Decision Tree",
+            "K-Means",
+            "Naive Bayes"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "2",
+        "question": "Which step comes first in the Data Mining process?",
+        "category": "Data Mining Process",
+        "difficulty": "easy",
+        "hint": "Before analysis, you must gather and prepare data.",
+        "options": [
+            "Data Cleaning",
+            "Data Visualization",
+            "Pattern Evaluation",
+            "Model Deployment"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which term refers to removing duplicate or corrupted records before mining?",
+        "category": "Data Preparation",
+        "difficulty": "easy",
+        "hint": "It ensures data quality before analysis.",
+        "options": [
+            "Data Cleaning",
+            "Data Encryption",
+            "Feature Scaling",
+            "Normalization"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is Concept Drift in Data Mining?",
+        "category": "Data Challenges",
+        "difficulty": "medium",
+        "hint": "It happens when data patterns evolve over time.",
+        "options": [
+            "A shift in data distribution affecting model accuracy",
+            "Loss of network connection during mining",
+            "Data duplication in storage",
+            "Hardware overheating during analysis"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which Data Mining task involves predicting future cyberattacks?",
+        "category": "Predictive Analytics",
+        "difficulty": "medium",
+        "hint": "It uses models to forecast based on existing data.",
+        "options": [
+            "Classification",
+            "Regression",
+            "Clustering",
+            "Correlation"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "What is the purpose of anomaly detection in cybersecurity?",
+        "category": "Anomaly Detection",
+        "difficulty": "easy",
+        "hint": "It helps identify behavior that doesn’t match normal activity.",
+        "options": [
+            "Detecting unknown or suspicious patterns",
+            "Predicting the next system update",
+            "Organizing data by type",
+            "Backing up old datasets"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which algorithm is widely used for anomaly detection?",
+        "category": "Anomaly Detection",
+        "difficulty": "medium",
+        "hint": "It isolates outliers by building trees randomly.",
+        "options": [
+            "Isolation Forest",
+            "Naive Bayes",
+            "Linear Regression",
+            "Apriori"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which component of a cybersecurity data pipeline gathers raw log data?",
+        "category": "Data Pipeline",
+        "difficulty": "easy",
+        "hint": "It’s the first stage before processing or analysis.",
+        "options": [
+            "Data Ingestion Layer",
+            "Data Visualization Layer",
+            "Storage Layer",
+            "Model Layer"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What does Data Normalization achieve in mining?",
+        "category": "Data Preparation",
+        "difficulty": "easy",
+        "hint": "It scales features to a common range for better performance.",
+        "options": [
+            "Equalizes numerical ranges of features",
+            "Adds encryption to data fields",
+            "Removes missing records",
+            "Splits data into training sets"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which Data Mining approach is used to discover time-based attack patterns?",
+        "category": "Temporal Mining",
+        "difficulty": "medium",
+        "hint": "It deals with event sequences like scan → exploit → exfiltrate.",
+        "options": [
+            "Sequence Mining",
+            "Regression",
+            "Dimensionality Reduction",
+            "Association Rule Mining"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is the main difference between Classification and Clustering?",
+        "category": "Mining Concepts",
+        "difficulty": "medium",
+        "hint": "One uses labeled data, the other doesn’t.",
+        "options": [
+            "Classification uses labeled data, Clustering doesn’t",
+            "Clustering is faster than Classification",
+            "Classification always gives continuous output",
+            "They are both supervised learning methods"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Why is feature selection important in Data Mining?",
+        "category": "Feature Engineering",
+        "difficulty": "medium",
+        "hint": "It reduces unnecessary variables to improve accuracy.",
+        "options": [
+            "It improves model performance by removing irrelevant features",
+            "It adds more variables for better prediction",
+            "It visualizes relationships between features",
+            "It merges datasets together"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which algorithm is commonly used for classification in cybersecurity?",
+        "category": "Classification",
+        "difficulty": "medium",
+        "hint": "It uses probabilities for predictions.",
+        "options": [
+            "K-Means",
+            "Naive Bayes",
+            "Apriori",
+            "Isolation Forest"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Which Data Mining challenge occurs when datasets are too large for a single machine?",
+        "category": "Mining Challenges",
+        "difficulty": "medium",
+        "hint": "It’s related to the 'big data' problem.",
+        "options": [
+            "Scalability",
+            "Overfitting",
+            "Bias",
+            "Feature Redundancy"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which term describes the process of integrating data from multiple cybersecurity tools?",
+        "category": "Data Integration",
+        "difficulty": "easy",
+        "hint": "It’s about unifying diverse data sources.",
+        "options": [
+            "Data Integration",
+            "Data Mining",
+            "Data Visualization",
+            "Data Labeling"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is Overfitting in machine learning models used for cybersecurity?",
+        "category": "Model Evaluation",
+        "difficulty": "medium",
+        "hint": "It means the model performs well on training data but fails on new data.",
+        "options": [
+            "Model memorizes training data patterns",
+            "Model fails to converge",
+            "Model ignores noisy data",
+            "Model produces uniform predictions"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which metric measures how often a Data Mining model correctly predicts attacks?",
+        "category": "Evaluation Metrics",
+        "difficulty": "easy",
+        "hint": "It’s expressed as a percentage of correct predictions.",
+        "options": [
+            "Accuracy",
+            "Recall",
+            "Precision",
+            "F1-Score"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which metric focuses on detecting true attack cases among predicted positives?",
+        "category": "Model Evaluation",
+        "difficulty": "medium",
+        "hint": "It’s the ability to detect real attacks without missing them.",
+        "options": [
+            "Precision",
+            "Recall",
+            "Specificity",
+            "Entropy"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "2",
+        "question": "Why is dimensionality reduction important in cybersecurity mining?",
+        "category": "Feature Reduction",
+        "difficulty": "medium",
+        "hint": "It simplifies high-dimensional attack data for better insight.",
+        "options": [
+            "It reduces computation cost and removes redundant features",
+            "It duplicates important features for reliability",
+            "It increases model complexity intentionally",
+            "It prevents clustering in datasets"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which visualization technique helps analysts identify data outliers easily?",
+        "category": "Data Visualization",
+        "difficulty": "easy",
+        "hint": "It uses boxes, whiskers, and medians.",
+        "options": [
+            "Box Plot",
+            "Heatmap",
+            "Pie Chart",
+            "Histogram"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which mining technique discovers relationships between multiple attack steps?",
+        "category": "Pattern Discovery",
+        "difficulty": "hard",
+        "hint": "It’s used to understand sequential dependencies of attacks.",
+        "options": [
+            "Sequence Mining",
+            "Association Mining",
+            "Clustering",
+            "Regression"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What does the term 'Knowledge Discovery in Databases' (KDD) include?",
+        "category": "Mining Concepts",
+        "difficulty": "medium",
+        "hint": "It’s the full process behind data mining.",
+        "options": [
+            "A complete process from data cleaning to pattern evaluation",
+            "Only the visualization stage",
+            "Only the data integration stage",
+            "Only the storage step"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which type of learning can be applied to detect malware variants without prior labels?",
+        "category": "Unsupervised Learning",
+        "difficulty": "hard",
+        "hint": "It groups data without knowing classes beforehand.",
+        "options": [
+            "Unsupervised Learning",
+            "Supervised Learning",
+            "Reinforcement Learning",
+            "Semi-Supervised Learning"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Why is Data Mining essential for SOC (Security Operations Center) analysts?",
+        "category": "Practical Applications",
+        "difficulty": "easy",
+        "hint": "It automates pattern detection in massive alert data.",
+        "options": [
+            "To find actionable insights from security logs",
+            "To delete unnecessary files",
+            "To block IP addresses manually",
+            "To reset system credentials"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which mining technique helps discover frequent co-occurrence of attack patterns?",
+        "category": "Association Mining",
+        "difficulty": "medium",
+        "hint": "Think of rules like: if event A, then event B.",
+        "options": [
+            "Association Rule Mining",
+            "Clustering",
+            "Regression",
+            "Classification"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What type of data visualization is best for showing attack frequency over time?",
+        "category": "Visualization",
+        "difficulty": "easy",
+        "hint": "It connects data points in a continuous flow.",
+        "options": [
+            "Line Chart",
+            "Pie Chart",
+            "Scatter Plot",
+            "Tree Map"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which method ensures that mined cybersecurity data remains interpretable and explainable?",
+        "category": "Explainable Mining",
+        "difficulty": "hard",
+        "hint": "It emphasizes transparency of model decisions.",
+        "options": [
+            "Explainable AI (XAI)",
+            "Deep Neural Networks",
+            "Feature Expansion",
+            "Random Sampling"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which data mining process step involves testing model performance using unseen data?",
+        "category": "Model Evaluation",
+        "difficulty": "medium",
+        "hint": "It ensures generalization before deployment.",
+        "options": [
+            "Model Validation",
+            "Data Cleaning",
+            "Pattern Discovery",
+            "Feature Encoding"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "What is the final step in the Knowledge Discovery process?",
+        "category": "KDD Steps",
+        "difficulty": "easy",
+        "hint": "After discovering patterns, they must be made usable.",
+        "options": [
+            "Knowledge Presentation",
+            "Data Collection",
+            "Model Training",
+            "Feature Extraction"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which cyber defense system benefits the most from continuous Data Mining?",
+        "category": "Applications",
+        "difficulty": "medium",
+        "hint": "It constantly monitors data to detect intrusions.",
+        "options": [
+            "Intrusion Detection Systems (IDS)",
+            "Password Managers",
+            "Data Backup Systems",
+            "Virtual Private Networks"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which challenge is most associated with unbalanced cybersecurity datasets?",
+        "category": "Data Challenges",
+        "difficulty": "hard",
+        "hint": "Attack data is usually much smaller than normal traffic.",
+        "options": [
+            "Class Imbalance Problem",
+            "Concept Drift",
+            "Overfitting",
+            "Dimensionality Bias"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "2",
+        "question": "Which type of visualization best highlights correlations between multiple security variables?",
+        "category": "Visualization",
+        "difficulty": "medium",
+        "hint": "It uses color gradients in a matrix format.",
+        "options": [
+            "Heatmap",
+            "Pie Chart",
+            "Bar Chart",
+            "Scatter Plot"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "What is the main problem caused by missing values in a dataset?",
+        "category": "Data Quality",
+        "difficulty": "easy",
+        "hint": "Think about the impact on analysis accuracy.",
+        "options": [
+            "They automatically improve predictions",
+            "They increase computing speed",
+            "They can reduce model accuracy and bias results",
+            "They make the dataset larger"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which type of missing data has no relationship to any variable in the dataset?",
+        "category": "Missing Data Types",
+        "difficulty": "medium",
+        "hint": "It’s completely random with no pattern.",
+        "options": [
+            "Missing at Random (MAR)",
+            "Dependent Missingness",
+            "Missing Completely at Random (MCAR)",
+            "Missing Not at Random (MNAR)"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "When missingness depends on observed variables, it is known as:",
+        "category": "Missing Data Types",
+        "difficulty": "medium",
+        "hint": "It depends on another recorded variable.",
+        "options": [
+            "Outlier",
+            "MAR",
+            "MCAR",
+            "MNAR"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Which imputation method replaces missing numeric values with the column average?",
+        "category": "Imputation",
+        "difficulty": "easy",
+        "hint": "It’s the simplest and most common approach.",
+        "options": [
+            "Hot-deck Imputation",
+            "Forward Fill",
+            "Regression Imputation",
+            "Mean Imputation"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "What is one disadvantage of Mean Imputation?",
+        "category": "Imputation Limits",
+        "difficulty": "medium",
+        "hint": "Think about the spread of data values.",
+        "options": [
+            "It increases randomness",
+            "It underestimates data variability",
+            "It deletes valuable rows",
+            "It doubles the dataset size"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Forward Fill uses which previous information to replace a missing value?",
+        "category": "Imputation",
+        "difficulty": "easy",
+        "hint": "It copies from the last known observation.",
+        "options": [
+            "Random sample from column",
+            "Next available observation",
+            "Average of all past values",
+            "Last valid non-missing value"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Which technique estimates missing data using a model trained on observed values?",
+        "category": "Advanced Imputation",
+        "difficulty": "hard",
+        "hint": "It predicts missing entries from correlated features.",
+        "options": [
+            "Mean Imputation",
+            "Simple Fill",
+            "Regression Imputation",
+            "Deletion Method"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Deleting all rows containing missing values is known as:",
+        "category": "Data Cleaning",
+        "difficulty": "easy",
+        "hint": "It’s a brute-force method that removes information.",
+        "options": [
+            "Substitution",
+            "Pairwise Deletion",
+            "Listwise Deletion",
+            "Regression"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which method connects nearby known data points to estimate missing ones?",
+        "category": "Interpolation",
+        "difficulty": "medium",
+        "hint": "It’s a mathematical estimation between values.",
+        "options": [
+            "Random Sampling",
+            "Backward Fill",
+            "Forward Fill",
+            "Interpolation"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Hot-deck Imputation replaces missing values with:",
+        "category": "Imputation",
+        "difficulty": "medium",
+        "hint": "It borrows information from similar records.",
+        "options": [
+            "Column average",
+            "Last valid value",
+            "Values from a similar observed case",
+            "Zero"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which of the following is a potential bias introduced by deleting missing data?",
+        "category": "Data Bias",
+        "difficulty": "medium",
+        "hint": "Deleting can change data representation.",
+        "options": [
+            "Reduction in variance bias",
+            "Systematic bias due to non-random deletion",
+            "Enhanced training speed",
+            "Improved data diversity"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "What is the purpose of handling missing values before model training?",
+        "category": "Data Preparation",
+        "difficulty": "easy",
+        "hint": "It prevents training errors and improves accuracy.",
+        "options": [
+            "To increase storage size",
+            "To add more columns",
+            "To ensure data consistency and reliability",
+            "To randomize outputs"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which evaluation metric is used to measure classification model accuracy?",
+        "category": "Classification Metrics",
+        "difficulty": "easy",
+        "hint": "It’s the ratio of correct predictions to total predictions.",
+        "options": [
+            "Recall",
+            "Accuracy",
+            "F1-Score",
+            "Precision"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Precision measures:",
+        "category": "Evaluation Metrics",
+        "difficulty": "medium",
+        "hint": "It’s about correctness among positive predictions.",
+        "options": [
+            "Correct negatives out of all predictions",
+            "True positives out of all actual positives",
+            "Total predictions over time",
+            "True positives out of predicted positives"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Recall measures:",
+        "category": "Evaluation Metrics",
+        "difficulty": "medium",
+        "hint": "It reflects how many real positives were found.",
+        "options": [
+            "True positives out of all actual positives",
+            "Predicted negatives out of all positives",
+            "False negatives over all data",
+            "True positives plus true negatives"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "What does F1-Score represent in classification?",
+        "category": "Evaluation Metrics",
+        "difficulty": "medium",
+        "hint": "It’s a balance between precision and recall.",
+        "options": [
+            "Difference between Recall and Accuracy",
+            "Sum of Accuracy and Precision",
+            "Harmonic mean of Precision and Recall",
+            "Geometric mean of losses"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which classification type predicts only two possible outcomes?",
+        "category": "Classification",
+        "difficulty": "easy",
+        "hint": "Yes/No or Spam/Not-Spam are examples.",
+        "options": [
+            "Multi-class Classification",
+            "Hierarchical Classification",
+            "Multi-label Classification",
+            "Binary Classification"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "When each instance can belong to several categories at once, it is called:",
+        "category": "Classification",
+        "difficulty": "medium",
+        "hint": "A movie can be both Action and Comedy.",
+        "options": [
+            "Multi-label Classification",
+            "Supervised Regression",
+            "Single-class Classification",
+            "Binary Classification"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "What type of learners delay generalization until prediction time?",
+        "category": "Learning Approaches",
+        "difficulty": "hard",
+        "hint": "They 'memorize' data rather than model it immediately.",
+        "options": [
+            "Lazy Learners",
+            "Reinforcement Agents",
+            "Unsupervised Models",
+            "Eager Learners"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "Which algorithm is an example of a Lazy Learner?",
+        "category": "Learning Approaches",
+        "difficulty": "medium",
+        "hint": "It classifies based on nearest data points.",
+        "options": [
+            "Decision Tree",
+            "K-Nearest Neighbors (KNN)",
+            "Naive Bayes",
+            "Logistic Regression"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "In supervised learning, what is used to train a model?",
+        "category": "Machine Learning",
+        "difficulty": "easy",
+        "hint": "The model learns from examples with known outcomes.",
+        "options": [
+            "Encrypted text",
+            "Random noise",
+            "Unlabeled data",
+            "Labeled data"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Which algorithm is most suitable for continuous output prediction?",
+        "category": "Regression",
+        "difficulty": "medium",
+        "hint": "It fits a line through data points.",
+        "options": [
+            "Naive Bayes",
+            "Decision Tree",
+            "Linear Regression",
+            "K-Means"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "What is the main difference between Regression and Classification?",
+        "category": "ML Basics",
+        "difficulty": "medium",
+        "hint": "Think about the type of output variable.",
+        "options": [
+            "Regression detects anomalies, Classification cleans data",
+            "Regression predicts continuous values, Classification predicts categories",
+            "Regression clusters data, Classification summarizes data",
+            "Regression uses labeled data, Classification does not"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Which model divides data using decision rules based on attributes?",
+        "category": "Classification Algorithms",
+        "difficulty": "easy",
+        "hint": "It uses tree-like structures for predictions.",
+        "options": [
+            "Linear Regression",
+            "K-Means",
+            "Naive Bayes",
+            "Decision Tree"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Naive Bayes assumes:",
+        "category": "Classification Algorithms",
+        "difficulty": "medium",
+        "hint": "It’s about independence between features.",
+        "options": [
+            "Data is sequential",
+            "Classes overlap completely",
+            "Features are conditionally independent",
+            "Features depend on each other strongly"
+        ],
+        "correct": 2
+    },
+    {
+        "lecture": "3",
+        "question": "Which evaluation metric is preferred for imbalanced datasets?",
+        "category": "Model Evaluation",
+        "difficulty": "hard",
+        "hint": "It balances precision and recall for minority classes.",
+        "options": [
+            "Accuracy",
+            "F1-Score",
+            "Correlation",
+            "Mean Absolute Error"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Confusion Matrix helps to:",
+        "category": "Model Evaluation",
+        "difficulty": "medium",
+        "hint": "It visualizes classification performance in counts.",
+        "options": [
+            "Normalize continuous features",
+            "Optimize clustering centers",
+            "Analyze missing data",
+            "Summarize predictions as true/false positives/negatives"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Cross-validation ensures that:",
+        "category": "Model Validation",
+        "difficulty": "medium",
+        "hint": "It prevents overfitting by testing on multiple subsets.",
+        "options": [
+            "Model generalizes well across unseen data",
+            "All missing values are filled",
+            "Data is normalized automatically",
+            "Data variance increases"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "Overfitting occurs when:",
+        "category": "Model Issues",
+        "difficulty": "medium",
+        "hint": "Model performs well on training but poorly on testing data.",
+        "options": [
+            "Model has too few features",
+            "Model ignores outliers",
+            "Model underestimates accuracy",
+            "Model learns noise instead of true patterns"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Underfitting occurs when:",
+        "category": "Model Issues",
+        "difficulty": "medium",
+        "hint": "It happens when the model is too simple for the data.",
+        "options": [
+            "Model memorizes all examples",
+            "Model has too many parameters",
+            "Model performs perfectly",
+            "Model cannot capture data patterns"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "What is the key advantage of using classification in cybersecurity?",
+        "category": "Cybersecurity Applications",
+        "difficulty": "medium",
+        "hint": "It helps label events like normal or malicious.",
+        "options": [
+            "System backup",
+            "Encryption key exchange",
+            "Faster database indexing",
+            "Automated threat categorization"
+        ],
+        "correct": 3
+    },
+    {
+        "lecture": "3",
+        "question": "Which machine learning model can classify emails as spam or not spam?",
+        "category": "Cybersecurity Applications",
+        "difficulty": "easy",
+        "hint": "It’s one of the earliest probabilistic classifiers.",
+        "options": [
+            "Decision Tree",
+            "Naive Bayes",
+            "Linear Regression",
+            "K-Means"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Which approach can fill missing data based on similar pattern clusters?",
+        "category": "Imputation",
+        "difficulty": "hard",
+        "hint": "It groups similar samples first before imputing.",
+        "options": [
+            "Cluster-based Imputation",
+            "Forward Fill",
+            "Zero Replacement",
+            "Mean Imputation"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "What is the main benefit of Multiple Imputation?",
+        "category": "Advanced Imputation",
+        "difficulty": "hard",
+        "hint": "It considers uncertainty by generating several datasets.",
+        "options": [
+            "It creates multiple filled datasets and averages results",
+            "It visualizes missingness directly",
+            "It deletes duplicate columns",
+            "It increases accuracy by random deletion"
+        ],
+        "correct": 0
+    },
+    {
+        "lecture": "3",
+        "question": "Which visualization helps identify missing patterns across features?",
+        "category": "Data Visualization",
+        "difficulty": "medium",
+        "hint": "It’s a matrix-like visual representation of nulls.",
+        "options": [
+            "Pie Chart",
+            "Missingness Heatmap",
+            "Box Plot",
+            "Line Graph"
+        ],
+        "correct": 1
+    },
+    {
+        "lecture": "3",
+        "question": "Why is handling missing values critical before model deployment?",
+        "category": "Data Integrity",
+        "difficulty": "hard",
+        "hint": "Unresolved missingness can break real-time predictions.",
+        "options": [
+            "It reduces feature correlation",
+            "It increases randomization",
+            "It compresses large data files",
+            "It ensures stable and reliable model performance"
+        ],
+        "correct": 3
+    }
+]
+
